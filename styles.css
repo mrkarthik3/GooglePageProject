@@ -1,0 +1,29 @@
+
+.otherlang {
+    text-decoration: none; 
+    align-content: center;
+}
+
+.otherlang:hover{
+
+    color: blue;
+    text-decoration: underline;
+}
+
+#button1{
+    background-color: #f2f2f2;
+    border: black;
+    
+}
+
+.forcolor{
+    color: #5f6368;
+}
+.forcolor:hover .forcolornounderline:hover{
+    text-decoration: underline #5f6368;
+}
+
+ul{
+    list-style: none;
+}
+
